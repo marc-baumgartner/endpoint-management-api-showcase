@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Endpoint Management: four systems (ConfigMgr, AD, Intune, Entra ID) joined in one API -->
+  <rect x="0.5" y="0.5" width="63" height="63" rx="13.5" fill="#16181D" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  <path d="M19 19 L32 32 M45 19 L32 32 M19 45 L32 32 M45 45 L32 32" stroke="#5B616E" stroke-width="3.2" stroke-linecap="round"/>
+  <circle cx="19" cy="19" r="6" fill="#3FBF9F"/>
+  <circle cx="45" cy="19" r="6" fill="#E08A4F"/>
+  <circle cx="19" cy="45" r="6" fill="#6E92FF"/>
+  <circle cx="45" cy="45" r="6" fill="#B58CF0"/>
+  <circle cx="32" cy="32" r="8" fill="#FFFFFF"/>
+</svg>
